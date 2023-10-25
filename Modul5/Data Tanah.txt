@@ -1,0 +1,16 @@
+Alamat        : 
+Panjang Tanah : 2 m
+Luas Tanah    : 2 m
+
+Alamat        : 3
+Panjang Tanah : 3 m
+Luas Tanah    : 3 m
+
+Alamat        : 3
+Panjang Tanah : 3 m
+Luas Tanah    : 3 m
+
+Alamat        : 3
+Panjang Tanah : 3 m
+Luas Tanah    : 3 m
+
